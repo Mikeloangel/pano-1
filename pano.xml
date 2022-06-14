@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="6.1.15" apprev="18116">
+  <panorama hideabout="1" id="node2">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2481" levelingpitch="0" levelingroll="0" leveltilesize="510" width="2481">
+      <level preload="0" predecode="0" height="2481" width="2481"/>
+      <level preload="0" predecode="0" height="1240" width="1240"/>
+      <level preload="0" predecode="0" height="620" width="620"/>
+      <level preload="1" predecode="1" height="310" width="310"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="29.4867">
+      <start pan="71.3828" fov="90.9115" projection="4" tilt="2.14993"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" heading="29.4867" customnodeid="" author="MIKHAIL VARUSHICHEV" info="" tags="krue-1-pano-tiff" nodeid="node2" copyright="LIGHT FOR MAGIC STUDIO" description="" latitude="59.84706493" title="КРУЭ -1 " datetime="10.06.2022 10:16" source="LightForMagic.ru" longitude="29.78249251"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" enabled="1" background="1" textcolor="0x000000" backgroundalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" width="180" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-330.76" target="" url="{node3}" id="Point01" skinid="ht_node" description="" distance="13.5134" title="КРУЭ -2 " tilt="0"/>
+      <hotspot pan="-232.55" target="" url="{node1}" id="Point02" skinid="ht_node" description="" distance="12.3862" title="КРУЭ - 7" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomfov="20" softedge="0" zoomin="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1" sensitivity="8" contextprojections="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0">
+      <menulink text="Creator: LightFormagic.ru" url="https://lightformagic.ru"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2482" levelingpitch="0" levelingroll="0" leveltilesize="510" width="2482">
+      <level preload="0" predecode="0" height="2482" width="2482"/>
+      <level preload="0" predecode="0" height="1241" width="1241"/>
+      <level preload="0" predecode="0" height="620" width="620"/>
+      <level preload="1" predecode="1" height="310" width="310"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="237.739">
+      <start pan="-74.1258" fov="90.9115" projection="4" tilt="0.455137"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" heading="237.739" customnodeid="" author="MIKHAIL VARUSHICHEV" info="" tags="krue-1-pano-tiff" nodeid="node3" copyright="LIGHT FOR MAGIC STUDIO" description="" latitude="59.84718619" title="КРУЭ -2 " datetime="10.06.2022 10:22" source="LightForMagic.ru" longitude="29.78247642"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" enabled="1" background="1" textcolor="0x000000" backgroundalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" width="180" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-314.21" target="" url="{node2}" id="Point01" skinid="ht_node" description="" distance="13.5134" title="КРУЭ -1 " tilt="0"/>
+      <hotspot pan="-120.63" target="" url="{node4}" id="Point02" skinid="ht_node" description="" distance="10.5549" title="КРУЭ - 3" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomfov="20" softedge="0" zoomin="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1" sensitivity="8" contextprojections="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0">
+      <menulink text="Creator: LightFormagic.ru" url="https://lightformagic.ru"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2481" levelingpitch="0" levelingroll="0" leveltilesize="510" width="2481">
+      <level preload="0" predecode="0" height="2481" width="2481"/>
+      <level preload="0" predecode="0" height="1240" width="1240"/>
+      <level preload="0" predecode="0" height="620" width="620"/>
+      <level preload="1" predecode="1" height="310" width="310"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-173.827">
+      <start pan="13.0884" fov="90.9115" projection="4" tilt="8.81423"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" heading="-173.827" customnodeid="" author="MIKHAIL VARUSHICHEV" info="" tags="krue-1-pano-tiff" nodeid="node4" copyright="LIGHT FOR MAGIC STUDIO" description="" latitude="59.84726433" title="КРУЭ - 3" datetime="10.06.2022 10:24" source="LightForMagic.ru" longitude="29.78236913"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" enabled="1" background="1" textcolor="0x000000" backgroundalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" width="180" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-296.01" target="" url="{node3}" id="Point01" skinid="ht_node" description="" distance="10.5549" title="КРУЭ -2 " tilt="0"/>
+      <hotspot pan="-29.17" target="" url="{node5}" id="Point02" skinid="ht_node" description="" distance="8.09554" title="КРУЭ - 4" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomfov="20" softedge="0" zoomin="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1" sensitivity="8" contextprojections="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0">
+      <menulink text="Creator: LightFormagic.ru" url="https://lightformagic.ru"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2479" levelingpitch="0" levelingroll="0" leveltilesize="510" width="2479">
+      <level preload="0" predecode="0" height="2479" width="2479"/>
+      <level preload="0" predecode="0" height="1239" width="1239"/>
+      <level preload="0" predecode="0" height="619" width="619"/>
+      <level preload="1" predecode="1" height="309" width="309"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="113.491">
+      <start pan="-13.9867" fov="90.9115" projection="4" tilt="1.92806"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" heading="113.491" customnodeid="" author="MIKHAIL VARUSHICHEV" info="" tags="krue-1-pano-tiff" nodeid="node5" copyright="LIGHT FOR MAGIC STUDIO" description="" latitude="59.84720774" title="КРУЭ - 4" datetime="10.06.2022 10:27" source="LightForMagic.ru" longitude="29.78227794"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" enabled="1" background="1" textcolor="0x000000" backgroundalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" width="180" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-59.97" target="" url="{node6}" id="Point01" skinid="ht_node" description="" distance="9.30743" title="КРУЭ - 5 " tilt="0"/>
+      <hotspot pan="-265.55" target="" url="{node4}" id="Point02" skinid="ht_node" description="" distance="8.09554" title="КРУЭ - 3" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomfov="20" softedge="0" zoomin="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1" sensitivity="8" contextprojections="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0">
+      <menulink text="Creator: LightFormagic.ru" url="https://lightformagic.ru"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2481" levelingpitch="0" levelingroll="0" leveltilesize="510" width="2481">
+      <level preload="0" predecode="0" height="2481" width="2481"/>
+      <level preload="0" predecode="0" height="1240" width="1240"/>
+      <level preload="0" predecode="0" height="620" width="620"/>
+      <level preload="1" predecode="1" height="310" width="310"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-288.793">
+      <start pan="-72.6798" fov="90.9115" projection="4" tilt="1.56626"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" heading="-288.793" customnodeid="" author="MIKHAIL VARUSHICHEV" info="" tags="krue-1-pano-tiff" nodeid="node6" copyright="LIGHT FOR MAGIC STUDIO" description="" latitude="59.84712421" title="КРУЭ - 5 " datetime="10.06.2022 10:30" source="LightForMagic.ru" longitude="29.78226721"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" enabled="1" background="1" textcolor="0x000000" backgroundalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" width="180" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-295.7" target="" url="{node5}" id="Point01" skinid="ht_node" description="" distance="9.30743" title="КРУЭ - 4" tilt="0"/>
+      <hotspot pan="-113.04" target="" url="{node7}" id="Point02" skinid="ht_node" description="" distance="11.0861" title="КРУЭ - 6" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomfov="20" softedge="0" zoomin="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1" sensitivity="8" contextprojections="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0">
+      <menulink text="Creator: LightFormagic.ru" url="https://lightformagic.ru"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2484" levelingpitch="0" levelingroll="0" leveltilesize="510" width="2484">
+      <level preload="0" predecode="0" height="2484" width="2484"/>
+      <level preload="0" predecode="0" height="1242" width="1242"/>
+      <level preload="0" predecode="0" height="621" width="621"/>
+      <level preload="1" predecode="1" height="310" width="310"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-249.96">
+      <start pan="-13.2531" fov="90.9115" projection="4" tilt="12.8033"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" heading="-249.96" customnodeid="" author="MIKHAIL VARUSHICHEV" info="" tags="krue-1-pano-tiff" nodeid="node7" copyright="LIGHT FOR MAGIC STUDIO" description="" latitude="59.84702451" title="КРУЭ - 6" datetime="10.06.2022 10:32" source="LightForMagic.ru" longitude="29.78226721"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" enabled="1" background="1" textcolor="0x000000" backgroundalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" width="180" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-242.75" target="" url="{node6}" id="Point01" skinid="ht_node" description="" distance="11.0861" title="КРУЭ - 5 " tilt="0"/>
+      <hotspot pan="-59.48" target="" url="{node1}" id="Point02" skinid="ht_node" description="" distance="8.47461" title="КРУЭ - 7" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomfov="20" softedge="0" zoomin="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1" sensitivity="8" contextprojections="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0">
+      <menulink text="Creator: LightFormagic.ru" url="https://lightformagic.ru"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2482" levelingpitch="0" levelingroll="0" leveltilesize="510" width="2482">
+      <level preload="0" predecode="0" height="2482" width="2482"/>
+      <level preload="0" predecode="0" height="1241" width="1241"/>
+      <level preload="0" predecode="0" height="620" width="620"/>
+      <level preload="1" predecode="1" height="310" width="310"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="7.52095">
+      <start pan="8.4107" fov="90.9115" projection="4" tilt="10.3906"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" heading="7.52095" customnodeid="" author="MIKHAIL VARUSHICHEV" info="" tags="krue-1-pano-tiff" nodeid="node1" copyright="LIGHT FOR MAGIC STUDIO" description="" latitude="59.84697062" title="КРУЭ - 7" datetime="10.06.2022 10:13" source="LightForMagic.ru" longitude="29.78237450"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" enabled="1" background="1" textcolor="0x000000" backgroundalpha="1" borderradius="1" height="20" backgroundcolor="0xffffff" width="180" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-308" target="" url="{node7}" id="Point01" skinid="ht_node" description="" distance="8.47461" title="КРУЭ - 6" tilt="0"/>
+      <hotspot pan="-46.9" target="" url="{node2}" id="Point02" skinid="ht_node" description="" distance="12.3862" title="КРУЭ -1 " tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomfov="20" softedge="0" zoomin="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" type="crossdissolve"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" hideabout="1" sensitivity="8" contextprojections="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" lockedmouse="0" lockedkeyboard="0">
+      <menulink text="Creator: LightFormagic.ru" url="https://lightformagic.ru"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata comment="" heading="0" customnodeid="" author="" info="" tags="" nodeid="master" copyright="" description="" latitude="" title="" datetime="" source="" longitude=""/>
+  </masternode>
+</tour>
